@@ -169,7 +169,7 @@ A meta e a receita de R$ 144.000 em junho foram preservadas; a diferença frente
 
 ### 9.4. Plano de implantação do White Label Zelo
 
-1. **Envio formal** (gestão/marketing): encaminhar kit ZIP e guia PDF à Zelo junto de nome, cores, slogan e sugestão de subdomínio. Guardar e-mail e confirmação de recebimento.
+1. **Envio formal — CONCLUÍDO (informado pelo gestor em 27/10/2026)**: kit visual e briefing de implantação enviados à Zelo Saúde. O envio está confirmado pelo gestor da VIDA; o recebimento e aceite pela Zelo ainda não foram comprovados.
 2. **Configuração** (Zelo): logo, cor primária, elementos personalizáveis, subdomínio e acessos administrativos; prazo contratual de até **10 dias após pagamento do setup e entrega dos elementos** (minuta V2, cláusula 3.2.2/3.5). Não iniciar contagem sem comprovação.
 3. **Prévia e homologação** (VIDA): solicitar URL de teste ou capturas da plataforma, validar desktop e celular, textos, logo, contraste, navegação, jornada de teleatendimento, encaminhamentos e suporte.
 4. **Aceite operacional** (VIDA + Zelo): conferir ambiente/credenciais, procedimentos médicos e treinamento operacional, formalizar aceite ou lista de ajustes.
@@ -181,6 +181,7 @@ A meta e a receita de R$ 144.000 em junho foram preservadas; a diferença frente
 |---|---|---|
 | Kit oficial finalizado | ZIP e guia PDF disponíveis | Concluído |
 | Ativos versionados no GitHub | URLs das imagens e documentação | Concluído |
+| Kit visual e briefing enviados à Zelo | Confirmação do gestor VIDA em 27/10/2026 | **Concluído — envio informado** |
 | Kit recebido pela Zelo | E-mail/protocolo de recebimento | A confirmar |
 | Subdomínio escolhido e ativado | URL funcional aprovada pela Zelo | A confirmar |
 | Preview/homologação visual | Capturas/URL de teste e aprovação escrita | A confirmar |
