@@ -1,12 +1,12 @@
 # VIDA — Telemedicina e Benefícios
 ## Projeto estratégico, condições Zelo Saúde e manual do dashboard financeiro
 
-**Versão:** 1.4.0 — 27/10/2026 (minuta Zelo V2 + identidade visual VIDA)  
+**Versão:** 1.5.0 — 27/10/2026 (contrato Zelo V2 assinado + identidade visual VIDA)  
 **Horizonte:** 1º de dezembro de 2026 a 30 de junho de 2027  
 **Meta preservada:** 10.000 vidas ativas e pagantes até 30/06/2027  
 **Sede operacional prevista:** Dourados/MS  
 **Fornecedora escolhida:** **Zelo Saúde** (substitui Medicar no cenário operacional)  
-**Status da contratação:** minuta Zelo **V2 de 27/10/2026** com faixas e vencimentos corrigidos; **assinatura não comprovada**. Tabela de excedentes e alguns pontos jurídicos pendentes.  
+**Status da contratação:** **contrato Zelo Saúde V2 assinado eletronicamente em 27/10/2026**. PDF de 20 páginas com relatório ZapSign (4 de 4 assinaturas). Tabela de excedentes, pagamento de setup e implantação ainda não comprovados.  
 **Slogan:** Cuidar de você é o que nos move.
 
 ---
@@ -25,7 +25,7 @@
 | Isenção em dezembro | 1 mês sem cobrança no modelo antigo | 0 meses: sem gratuidade confirmada na nova negociação |
 | Entrega da plataforma | Consultar Online antes da futura personalização | White label com subdomínio e cores; até 10 dias após setup pago e entrega dos elementos da marca |
 
-As condições comerciais foram negociadas e **incorporadas na minuta Zelo Saúde V2 de 27/10/2026 (18 páginas)**. O Anexo I registra R$ 3,90/vida entre 250 e 3.000 vidas, R$ 3,60/vida desde 3.001 vidas, vencimento das mensalidades todo dia 8 e setup de R$ 1.500. Versões e propostas anteriores permanecem apenas como histórico. Ainda não há comprovação de assinatura, nem tabela dos atendimentos de especialidades excedentes.
+As condições comerciais foram negociadas e **incorporadas no contrato Zelo Saúde V2 assinado em 27/10/2026 (20 páginas, incluindo duas de relatório ZapSign)**. O Anexo I registra R$ 3,90/vida entre 250 e 3.000 vidas, R$ 3,60/vida desde 3.001 vidas, vencimento das mensalidades todo dia 8 e setup de R$ 1.500. Versões e propostas anteriores permanecem apenas como histórico. O relatório ZapSign registra quatro assinaturas; ainda não foi disponibilizada a tabela dos atendimentos de especialidades excedentes.
 
 ## 2. Objetivo e modelo de negócio preservados
 
@@ -43,14 +43,14 @@ A tabela comercial de revendedores contabiliza o preço de R$ 9,90 como faturame
 
 ## 3. Condições negociadas Zelo e limites
 
-- **Setup white label:** R$ 1.500, uma única vez, previsto na minuta V2, vencimento contratual indicado para 28/10/2026. Pagamento efetivo não comprovado.
+- **Setup white label:** R$ 1.500, uma única vez, previsto no contrato assinado V2, vencimento em 28/10/2026. Pagamento efetivo não comprovado.
 - **Tarifa individual:** R$ 3,90 por vida/mês até 3.000 vidas faturáveis; R$ 3,60 de 3.001 a 10.000 vidas faturáveis.
 - **Mínimo faturável:** nos quatro primeiros períodos (vencimentos dezembro/2026 a março/2027), 250 vidas/R$ 975 apenas se a carteira tiver **até 250 vidas ativas**. Se superar 250, aplica-se imediatamente o mínimo ordinário de **500 vidas/R$ 1.950**; desde o quinto período, R$ 1.950 ou mais conforme a base. Sem isenção em dezembro.
-- **Especialidades:** utilização até 1% do total da base de vidas ativas; acesso às especialidades, na minuta V2, condicionado a encaminhamento por médico da própria plataforma. A tabela de atendimento excedente não foi disponibilizada; seu custo fica fora do resultado projetado.
-- **Escopo assistencial conforme V2, cláusula 5:** PA 24h e especialidades/teleorientações, condicionadas a encaminhamento médico interno. Os valores de cobrança de excedentes dependem da tabela pendente; alinhar também a tabela da cláusula 3.1, que menciona PA 24h.
-- **White label:** ambiente com marca, cores e subdomínio; a minuta V2 prevê entrega em até 10 dias após pagamento do setup e envio de logotipo e cor principal. Aplicativo nativo não está garantido; solicitar aprovação visual antes do aceite operacional.
-- **Vencimentos na V2:** mensalidades todo dia **08**, iniciando em **08/12/2026**, conforme cronograma e regra geral uniformizada. Setup indicado para 28/10/2026. A data de entrega/implantação segue dependente da confirmação do pagamento e dos arquivos de marca.
-- **Prazo e riscos jurídicos da V2:** fidelidade de 12 meses, aviso de 60 dias, IPCA anual e revisão extraordinária, possível suspensão por atraso, não concorrência com multa. Revisar cláusulas sensíveis antes da assinatura.
+- **Especialidades:** utilização até 1% do total da base de vidas ativas; acesso às especialidades, no contrato assinado, condicionado a encaminhamento por médico da própria plataforma. A tabela de atendimento excedente não foi disponibilizada; seu custo fica fora do resultado projetado.
+- **Escopo assistencial conforme contrato assinado V2, cláusula 5:** PA 24h e especialidades/teleorientações, condicionadas a encaminhamento médico interno. Os valores de cobrança de excedentes dependem da tabela pendente; alinhar também a tabela da cláusula 3.1, que menciona PA 24h.
+- **White label:** ambiente com marca, cores e subdomínio; o contrato V2 prevê entrega em até 10 dias após pagamento do setup e envio de logotipo e cor principal. Aplicativo nativo não está garantido; solicitar aprovação visual antes do aceite operacional.
+- **Vencimentos do contrato V2:** mensalidades todo dia **08**, iniciando em **08/12/2026**, conforme cronograma e regra geral uniformizada. Setup indicado para 28/10/2026. A data de entrega/implantação segue dependente da confirmação do pagamento e dos arquivos de marca.
+- **Prazo e riscos jurídicos do contrato V2 assinado:** fidelidade de 12 meses, aviso de 60 dias, IPCA anual e revisão extraordinária, possível suspensão por atraso, não concorrência com multa. Revisar cláusulas sensíveis antes da assinatura.
 
 **Nota de cálculo:** o custo por especialidades acima do limite de 1% **não está modelado** porque o preço dos excedentes não foi fornecido. Também não existe confirmação de direito a desconto por ausência de uso médico.
 
@@ -91,7 +91,7 @@ A meta e a receita de R$ 144.000 em junho foram preservadas; a diferença frente
 
 ## 5. Etapas e responsáveis
 
-- **Antes da operação:** minuta Zelo V2 recebida e faixas/vencimentos corrigidos; comprovar assinatura, obter tabela de excedentes, revisar fidelidade, não concorrência, rescisão e SLA; confirmar CNPJ/CNAE e tributos com contador. Enviar kit visual oficial à Zelo e solicitar prévia do ambiente.
+- **Antes da operação:** contrato Zelo V2 assinado em 27/10/2026; arquivar relatório ZapSign; comprovar pagamento do setup, obter tabela de excedentes, revisar fidelidade, não concorrência, rescisão e SLA; confirmar CNPJ/CNAE e tributos com contador. Kit visual enviado à Zelo conforme confirmação do gestor; aguardar confirmação de recebimento e prévia do ambiente.
 - **Implantação:** receber white label da Zelo, testar acesso e jornada médica, triagem, encaminhamentos, receitas, suporte e segurança de dados; implantar CRM, meios de cobrança e contratos comerciais.
 - **Dezembro/2026:** perseguir 500 vidas ativas e pagantes, conforme meta existente; relatório mensal deve confrontar vidas e recebimentos efetivos com previsões.
 - **Janeiro a março/2027:** crescer até 3.500 vidas com revendedores e empresas; validar adesão, utilização das especialidades, cancelamento e taxas de pagamento.
@@ -99,7 +99,7 @@ A meta e a receita de R$ 144.000 em junho foram preservadas; a diferença frente
 
 ## 6. Principais riscos e condições suspensivas
 
-1. **Maior risco documental remanescente:** a minuta V2 reflete os valores e vencimentos acordados, mas falta comprovação de assinatura e tabela de preços de excedentes assistenciais. Não tratar minuta como contrato executado.
+1. **Maior risco documental remanescente:** o contrato V2 está assinado, mas faltam a tabela de preços de excedentes assistenciais e os comprovantes do setup e da implantação. O instrumento foi assinado em nome de pessoa física; aditivo para CNPJ está previsto após regularização.
 2. **Especialidades:** sinistralidade/utilização de 1% da base, excedentes potencialmente pagos, necessidade de encaminhamento e regras de agendamento.
 3. **Custos comerciais:** metas agressivas, custo de aquisição, churn, inadimplência, comissões duplicadas em revendedores e carga tributária não validada.
 4. **Contrato:** fidelidade, aviso prévio, multa de não concorrência, reajuste, suspensão por inadimplência e garantia da carteira.
@@ -109,17 +109,17 @@ A meta e a receita de R$ 144.000 em junho foram preservadas; a diferença frente
 
 - Site do dashboard: https://vida-telemedicina.netlify.app/ ; fonte principal em `index.html` no repositório https://github.com/claudimirpereira-maker/vida-telemedicina . Contém as abas de estratégia, finanças, vendas, operação, marca, minuta, riscos e auditoria.
 - `VIDA_Modelo_Inicial.json`: backup com novos valores e tarefas, importável pelo dashboard.
-- O dashboard **1.4.0** migra automaticamente o `localStorage` das versões anteriores para preservar dados comerciais, registros reais, metas, tarefas, riscos e auditoria; mudanças de marca são registradas no histórico. Faça backup JSON antes de atualizações críticas.
+- O dashboard **1.5.0** migra automaticamente o `localStorage` das versões anteriores para preservar dados comerciais, registros reais, metas, tarefas, riscos e auditoria; mudanças de marca são registradas no histórico. Faça backup JSON antes de atualizações críticas.
 - O sistema continua local, sem integração bancária ou CRM, sem verificação automática dos dados e sem trilha de auditoria inviolável. Backup após alterações relevantes.
 
 ## 8. Fontes e controle de versões
 
-- `Claudimir Pereira - Minuta - White Label V2.pdf`, 18 páginas: **fonte atual** da parceria Zelo, com faixas e vencimento corrigidos; arquivo integral privado em VIDA/Contratos na Biblioteca. Documento não assinado de forma verificável.
+- `Claudimir Pereira - Minuta - White Label V2-1.pdf`, **20 páginas: contrato assinado em 27/10/2026**, com 18 páginas contratuais e 2 de relatório ZapSign (4/4 assinaturas). **Fonte atual** da parceria Zelo, integral arquivada em `/VIDA/Contratos/Zelo_Saude_Contrato_V2_Assinado_ZapSign_2026-10-27.pdf` na Biblioteca privada. Minuta de 18 páginas é histórico. Não publicar logs de assinatura no GitHub público.
 - `Claudimir Pereira - White Label - Zelo Saúde.pdf`, proposta de 23/10/2026: R$ 6.000 setup e R$ 5,90/vida (histórico, superado pela negociação).
-- Decisão comercial e minuta Zelo Saúde V2 de 27/10/2026: setup R$ 1.500; tarifas R$ 3,90 / R$ 3,60 com limiar 3.001; promoção condicional de 250 vidas, mínimo ordinário 500 vidas, especialidades 1%.
+- Decisão comercial e contrato Zelo Saúde V2 assinado em 27/10/2026: setup R$ 1.500; tarifas R$ 3,90 / R$ 3,60 com limiar 3.001; promoção condicional de 250 vidas, mínimo ordinário 500 vidas, especialidades 1%.
 - Planejamento VIDA v1.0.0: origem dos canais, preços de revenda, metas, encargos e regras gerais de gestão; mantidos salvo mudanças expressas.
 
-**Parecer de implantação:** fornecedor selecionado e minuta V2 corrigida, contrato ainda não comprovadamente assinado. As projeções financeiras são gerenciais, não promessa de lucro. Atualizar o dashboard com faturas, contratos, notas fiscais e resultados reais conforme ocorrerem.
+**Parecer de implantação:** fornecedor contratado por instrumento eletrônico assinado V2 com relatório ZapSign de quatro assinaturas. Pagamento do setup, entrega e início da operação ainda não comprovados. As projeções financeiras são gerenciais, não promessa de lucro. Atualizar o dashboard com faturas, contratos, notas fiscais e resultados reais conforme ocorrerem.
 
 
 ---
@@ -170,7 +170,7 @@ A meta e a receita de R$ 144.000 em junho foram preservadas; a diferença frente
 ### 9.4. Plano de implantação do White Label Zelo
 
 1. **Envio formal — CONCLUÍDO (informado pelo gestor em 27/10/2026)**: kit visual e briefing de implantação enviados à Zelo Saúde. O envio está confirmado pelo gestor da VIDA; o recebimento e aceite pela Zelo ainda não foram comprovados.
-2. **Configuração** (Zelo): logo, cor primária, elementos personalizáveis, subdomínio e acessos administrativos; prazo contratual de até **10 dias após pagamento do setup e entrega dos elementos** (minuta V2, cláusula 3.2.2/3.5). Não iniciar contagem sem comprovação.
+2. **Configuração** (Zelo): logo, cor primária, elementos personalizáveis, subdomínio e acessos administrativos; prazo contratual de até **10 dias após pagamento do setup e entrega dos elementos** (contrato assinado V2, cláusulas 3.2.2/3.5). Não iniciar contagem sem comprovação.
 3. **Prévia e homologação** (VIDA): solicitar URL de teste ou capturas da plataforma, validar desktop e celular, textos, logo, contraste, navegação, jornada de teleatendimento, encaminhamentos e suporte.
 4. **Aceite operacional** (VIDA + Zelo): conferir ambiente/credenciais, procedimentos médicos e treinamento operacional, formalizar aceite ou lista de ajustes.
 5. **Lançamento comercial** (VIDA): usar somente materiais e benefícios comprovados, mantendo LGPD e normas de publicidade médica.
@@ -189,3 +189,27 @@ A meta e a receita de R$ 144.000 em junho foram preservadas; a diferença frente
 | Lançamento | Ata de aceite e testes funcionais | A confirmar |
 
 **Decisão de governança:** a marca pertence ao projeto VIDA; alterações futuras de nome, logotipo, slogan ou códigos de cor devem ser tratadas como revisão de identidade, com atualização do kit, deste manual e do painel online.
+
+
+---
+
+## 10. Contrato assinado com a Zelo Saúde — documentação e controles (27/10/2026)
+
+**Marco concluído:** instrumento eletrônico assinado via ZapSign em 27/10/2026, com 4 de 4 assinaturas no relatório das páginas 19–20, correspondentes às duas partes e às duas testemunhas. A inspeção técnica local identificou assinatura criptográfica válida, mas sem validação integral de confiança na cadeia certificadora. Para uso jurídico formal, consultar também a verificação oficial ZapSign.
+
+**Conferência contra a minuta V2:** páginas contratuais 1–18 mantêm as condições da V2 anterior, sem diferenças identificadas na redação comercial; acrescentaram-se carimbos de assinatura e relatório de duas páginas.
+
+**Financeiro inalterado:** setup R$1.500, vencimento 28/10/2026; R$3,90 entre 250 e 3.000 vidas, R$3,60 desde 3.001; promoção R$975 por período nos quatro primeiros períodos somente para base ativa até 250 vidas; acima disso ou no quinto período em diante vale o mínimo ordinário de R$1.950; vencimento mensal dia 08.
+
+**Responsabilidades:** a Zelo mantém responsabilidade pela plataforma clínica, equipe médica, responsável técnico e atos assistenciais (cláusulas 2.3, 7.1.2 e 12). A parceira comercial administra clientes, faturamento próprio, cobranças, comercialização e suporte inicial (cláusulas 2.3 e 7.2). O Anexo I prevê alteração posterior da qualificação da pessoa física contratante para CNPJ. Não há garantia contratual de aplicativo nativo próprio; há previsão de white label por marca, cores e subdomínio.
+
+**Pendências diferentes da assinatura:**
+
+- [ ] Comprovar pagamento do setup de R$1.500 e arquivar comprovante;
+- [ ] Confirmar recebimento pela Zelo do kit visual já enviado e prazo de início da implantação;
+- [ ] Receber subdomínio definitivo, credenciais e treinamento, testar o ambiente;
+- [ ] Obter tabela e regras de cobrança das especialidades excedentes à utilização de 1%;
+- [ ] Submeter fidelidade de 12 meses, rescisão com aviso de 60 dias e futuro aditivo do CNPJ à análise contábil/jurídica;
+- [ ] Se necessário, verificar o relatório de assinaturas diretamente na plataforma ZapSign.
+
+**Proteção de dados:** o documento assinado contém CPFs, endereços, IPs, telefones, tokens e dados de autenticação. A íntegra deve ficar em ambiente privado; o GitHub público recebe somente este resumo gerencial sem dados pessoais.
