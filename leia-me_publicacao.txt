@@ -1,0 +1,20 @@
+VIDA — Dashboard para publicação no Netlify
+===========================================
+
+COMO PUBLICAR
+1. Extraia VIDA_Dashboard_Para_Publicar.zip no computador.
+2. Entre em https://app.netlify.com/drop e faça login em sua conta.
+3. Arraste a pasta VIDA_Dashboard_Publicacao (que contém index.html) para a área de publicação.
+4. O Netlify fornecerá um endereço na forma https://<nome>.netlify.app.
+5. Teste o dashboard pelo endereço recebido.
+
+CUIDADOS FUNDAMENTAIS
+- Este projeto estático tem conteúdo de planejamento comercial. QUALQUER pessoa com acesso à página pode visualizar as premissas embutidas no HTML.
+- A tag noindex reduz indexação por buscadores, MAS NÃO protege a página.
+- O modelo salva alterações em localStorage, ou seja, em cada navegador separadamente. Os dados NÃO são compartilhados nem sincronizados entre pessoas/aparelhos.
+- Antes de migrar do arquivo local, faça backup JSON no dashboard original; no endereço hospedado, importe-o.
+- Para multiusuários, acesso protegido, banco compartilhado e auditoria confiável, será necessário backend, autenticação e permissões (por exemplo, Supabase) com implementação específica.
+- Jamais registre prontuários, dados clínicos ou dados pessoais sensíveis neste painel de demonstração.
+- Para atualizar a versão hospedada, carregue novamente a pasta pelo menu de deploys do projeto no Netlify.
+
+Arquivo principal: index.html
