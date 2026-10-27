@@ -19,11 +19,11 @@
 | Setup | Sem implantação na base anterior | R$ 1.500 (negociado) |
 | Tarifa até 3.000 vidas | R$ 3,90 | R$ 3,90 |
 | Tarifa de 3.001 a 10.000 vidas | R$ 3,60 | R$ 3,60 |
-| Mínimo até março/2027 | 500 faturáveis | 250 faturáveis |
+| Mínimo até março/2027 | 500 faturáveis | 250 faturáveis somente com até 250 vidas ativas; caso contrário, 500 |
 | Mínimo desde abril/2027 | 1.000 faturáveis | 500 faturáveis |
 | Especialidades | 5% como premissa de sinistralidade da Medicar | 1% da base total de vidas ativas como limite de utilização da Zelo |
 | Isenção em dezembro | 1 mês sem cobrança no modelo antigo | 0 meses: sem gratuidade confirmada na nova negociação |
-| Entrega da plataforma | Consultar Online antes da futura personalização | Ambiente white label Zelo; escopo de app e prazo a confirmar |
+| Entrega da plataforma | Consultar Online antes da futura personalização | White label com subdomínio e cores; até 10 dias após setup pago e entrega dos elementos da marca |
 
 As condições comerciais foram negociadas e **incorporadas na minuta Zelo Saúde V2 de 27/10/2026 (18 páginas)**. O Anexo I registra R$ 3,90/vida entre 250 e 3.000 vidas, R$ 3,60/vida desde 3.001 vidas, vencimento das mensalidades todo dia 8 e setup de R$ 1.500. Versões e propostas anteriores permanecem apenas como histórico. Ainda não há comprovação de assinatura, nem tabela dos atendimentos de especialidades excedentes.
 
@@ -46,7 +46,7 @@ A tabela comercial de revendedores contabiliza o preço de R$ 9,90 como faturame
 - **Setup white label:** R$ 1.500, uma única vez, previsto na minuta V2, vencimento contratual indicado para 28/10/2026. Pagamento efetivo não comprovado.
 - **Tarifa individual:** R$ 3,90 por vida/mês até 3.000 vidas faturáveis; R$ 3,60 de 3.001 a 10.000 vidas faturáveis.
 - **Mínimo faturável:** nos quatro primeiros períodos (vencimentos dezembro/2026 a março/2027), 250 vidas/R$ 975 apenas se a carteira tiver **até 250 vidas ativas**. Se superar 250, aplica-se imediatamente o mínimo ordinário de **500 vidas/R$ 1.950**; desde o quinto período, R$ 1.950 ou mais conforme a base. Sem isenção em dezembro.
-- **Especialidades:** utilização até 1% do total da base de vidas ativas; acesso às especialidades, na minuta anterior, condicionado a encaminhamento por médico da própria plataforma. A tabela de atendimento excedente não foi disponibilizada; seu custo fica fora do resultado projetado.
+- **Especialidades:** utilização até 1% do total da base de vidas ativas; acesso às especialidades, na minuta V2, condicionado a encaminhamento por médico da própria plataforma. A tabela de atendimento excedente não foi disponibilizada; seu custo fica fora do resultado projetado.
 - **Escopo assistencial conforme V2, cláusula 5:** PA 24h e especialidades/teleorientações, condicionadas a encaminhamento médico interno. Os valores de cobrança de excedentes dependem da tabela pendente; alinhar também a tabela da cláusula 3.1, que menciona PA 24h.
 - **White label:** ambiente com marca, cores e subdomínio; a minuta V2 prevê entrega em até 10 dias após pagamento do setup e envio de logotipo e cor principal. Aplicativo nativo não está garantido; solicitar aprovação visual antes do aceite operacional.
 - **Vencimentos na V2:** mensalidades todo dia **08**, iniciando em **08/12/2026**, conforme cronograma e regra geral uniformizada. Setup indicado para 28/10/2026. A data de entrega/implantação segue dependente da confirmação do pagamento e dos arquivos de marca.
