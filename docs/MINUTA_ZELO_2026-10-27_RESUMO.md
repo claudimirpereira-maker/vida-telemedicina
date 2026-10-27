@@ -1,3 +1,7 @@
+> **HISTÓRICO — SUBSTITUÍDO PELA MINUTA V2.** As inconsistências de vencimento dia 20 e tarifa desde 1.999 vidas foram corrigidas no PDF V2 de 27/10/2026. Consulte a documentação vigente: [Minuta Zelo V2 — resumo e pendências](MINUTA_ZELO_V2_2026-10-27_RESUMO.md). Este arquivo permanece apenas para rastreabilidade da revisão anterior.
+
+---
+
 # VIDA — Minuta Zelo Saúde de 27/10/2026 (resumo operacional)
 
 **Fonte:** minuta White Label de 18 páginas, recebida em 27/10/2026.  
