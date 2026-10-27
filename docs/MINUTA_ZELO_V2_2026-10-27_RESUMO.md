@@ -1,3 +1,7 @@
+> **HISTÓRICO — DOCUMENTO ASSINADO DISPONÍVEL.** A minuta V2 foi assinada eletronicamente em 27/10/2026 (relatório ZapSign: 4/4 assinaturas). Este arquivo descreve a fase pré-assinatura. Para o status vigente, consulte [Contrato Zelo V2 assinado — resumo](CONTRATO_ZELO_V2_ASSINADO_2026-10-27_RESUMO.md). O PDF assinado integral permanece privado em VIDA/Contratos.
+
+---
+
 # VIDA — Zelo Saúde · Minuta White Label V2
 
 **Documento-base:** Minuta V2, datada de 27/10/2026, 18 páginas.  
